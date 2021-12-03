@@ -1,0 +1,7 @@
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study\obj\Debug\csharp_study.csprojAssemblyReference.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study\obj\Debug\csharp_study.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study\bin\Debug\csharp_study.exe.config
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study\bin\Debug\csharp_study.exe
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study\bin\Debug\csharp_study.pdb
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study\obj\Debug\csharp_study.exe
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study\obj\Debug\csharp_study.pdb
