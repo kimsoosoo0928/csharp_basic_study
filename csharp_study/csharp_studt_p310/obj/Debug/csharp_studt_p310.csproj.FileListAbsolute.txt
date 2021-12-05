@@ -1,0 +1,7 @@
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_studt_p310\bin\Debug\csharp_studt_p310.exe.config
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_studt_p310\bin\Debug\csharp_studt_p310.exe
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_studt_p310\bin\Debug\csharp_studt_p310.pdb
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_studt_p310\obj\Debug\csharp_studt_p310.csprojAssemblyReference.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_studt_p310\obj\Debug\csharp_studt_p310.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_studt_p310\obj\Debug\csharp_studt_p310.exe
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_studt_p310\obj\Debug\csharp_studt_p310.pdb

@@ -1,0 +1,2 @@
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p307\obj\Debug\csharp_study_p307.csprojAssemblyReference.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p307\obj\Debug\csharp_study_p307.csproj.CoreCompileInputs.cache

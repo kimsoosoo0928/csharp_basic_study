@@ -1,0 +1,7 @@
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p7317\bin\Debug\csharp_study_p7317.exe.config
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p7317\bin\Debug\csharp_study_p7317.exe
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p7317\bin\Debug\csharp_study_p7317.pdb
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p7317\obj\Debug\csharp_study_p7317.csprojAssemblyReference.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p7317\obj\Debug\csharp_study_p7317.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p7317\obj\Debug\csharp_study_p7317.exe
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p7317\obj\Debug\csharp_study_p7317.pdb
