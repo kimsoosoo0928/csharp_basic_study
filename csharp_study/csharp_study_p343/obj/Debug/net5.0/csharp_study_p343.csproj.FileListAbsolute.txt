@@ -1,0 +1,5 @@
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p343\obj\Debug\net5.0\csharp_study_p343.csproj.AssemblyReference.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p343\obj\Debug\net5.0\csharp_study_p343.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p343\obj\Debug\net5.0\csharp_study_p343.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p343\obj\Debug\net5.0\csharp_study_p343.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p343\obj\Debug\net5.0\csharp_study_p343.csproj.CoreCompileInputs.cache

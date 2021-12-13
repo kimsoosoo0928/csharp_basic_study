@@ -1,0 +1,15 @@
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\bin\Debug\net5.0\csharp_study_p363.exe
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\bin\Debug\net5.0\csharp_study_p363.deps.json
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\bin\Debug\net5.0\csharp_study_p363.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\bin\Debug\net5.0\csharp_study_p363.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\bin\Debug\net5.0\csharp_study_p363.dll
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\bin\Debug\net5.0\ref\csharp_study_p363.dll
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\bin\Debug\net5.0\csharp_study_p363.pdb
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\csharp_study_p363.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\csharp_study_p363.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\csharp_study_p363.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\csharp_study_p363.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\csharp_study_p363.dll
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\ref\csharp_study_p363.dll
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\csharp_study_p363.pdb
+C:\Users\kimso\Desktop\workspace\Csharp\csharp_study\csharp_study_p363\obj\Debug\net5.0\csharp_study_p363.genruntimeconfig.cache
