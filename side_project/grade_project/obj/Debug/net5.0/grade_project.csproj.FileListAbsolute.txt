@@ -1,0 +1,16 @@
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\bin\Debug\net5.0\grade_project.exe
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\bin\Debug\net5.0\grade_project.deps.json
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\bin\Debug\net5.0\grade_project.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\bin\Debug\net5.0\grade_project.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\bin\Debug\net5.0\grade_project.dll
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\bin\Debug\net5.0\ref\grade_project.dll
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\bin\Debug\net5.0\grade_project.pdb
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.csproj.AssemblyReference.cache
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.dll
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\ref\grade_project.dll
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.pdb
+C:\Users\kimso\Desktop\workspace\Csharp\side_project\grade_project\obj\Debug\net5.0\grade_project.genruntimeconfig.cache
